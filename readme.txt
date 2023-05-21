@@ -1,7 +1,7 @@
-%%Ö÷³ÌĞò DEDF_mian£¬²âÊÔ¼¯cec2017
+%% Main program DEDF_mianï¼ŒTest set: cec2017
 
-%%¡°plot¡±ÎÄ¼ş¼Ğ°üÀ¨£º1.»æÍ¼Êı¾İ£»2.»æÍ¼³ÌĞòplot_fig
+%%â€œplotâ€ Folders include: 1. Drawing data; 2. Drawing program: plot_fig
 
-%% Ó²¼ş»·¾³:  1.ÔËĞĞ»·¾³ MATLAB R2016B£» 
-              2.´¦ÀíÆ÷  Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz   1.99 GHz   
-              3.windows¹æ¸ñ:Windows 10 ¼ÒÍ¥ÖĞÎÄ°æ
+%% Hardware environment:  1.Running environment MATLAB R2016Bï¼› 
+              2.Processor: Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz   1.99 GHz   
+              3. Windows 10 OS
